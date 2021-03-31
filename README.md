@@ -19,3 +19,9 @@ representing the lengths of the corresponding words.
 - D) Write a Python function which takes a character (i.e. a string of length 1) and returns True if
 it is a vowel, False otherwise.
 
+## ⭐Prerequisites
+- Ability to understand the logic of the question
+## ⭐Tools required
+- Python installed on your computer
+- Jupyter Notebook
+
