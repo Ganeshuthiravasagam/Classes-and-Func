@@ -1,6 +1,6 @@
 ![image](https://github.com/Ganeshuthiravasagam/Classes-and-Func/blob/main/OOPS.jpg)
 
-# Python-Assignment-4
+# Classes and Functions
 - A) Write a Python Program(with class concepts) to find the area of the triangle using the below
 formula.
 
